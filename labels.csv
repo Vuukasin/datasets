@@ -7,10 +7,14 @@ find issue with bug label,1,0,0,0
 find task with bug label,1,0,0,0
 find ticket with bug label,1,0,0,0
 find item with bug label,1,0,0,0
-find issue labeled with bugfind issue labeled as bug,1,0,0,0
-find task labeled with bugfind task labeled as bug,1,0,0,0
-find ticket labeled with bugfind ticket labeled as bug,1,0,0,0
-find item labeled with bugfind item labeled as bug,1,0,0,0
+find issue labeled with bug,1,0,0,0
+find task labeled with bug,1,0,0,0
+find ticket labeled with bug,1,0,0,0
+find item labeled with bug,1,0,0,0
+find issue labeled as bug,1,0,0,0
+find task labeled as bug,1,0,0,0
+find ticket labeled as bug,1,0,0,0
+find item labeled as bug,1,0,0,0
 display bugs,1,0,0,0
 display bugs,1,0,0,0
 display bugs,1,0,0,0
@@ -19,10 +23,14 @@ display issue with bug label,1,0,0,0
 display task with bug label,1,0,0,0
 display ticket with bug label,1,0,0,0
 display item with bug label,1,0,0,0
-display issue labeled with bugdisplay issue labeled as bug,1,0,0,0
-display task labeled with bugdisplay task labeled as bug,1,0,0,0
-display ticket labeled with bugdisplay ticket labeled as bug,1,0,0,0
-display item labeled with bugdisplay item labeled as bug,1,0,0,0
+display issue labeled with bug,1,0,0,0
+display task labeled with bug,1,0,0,0
+display ticket labeled with bug,1,0,0,0
+display item labeled with bug,1,0,0,0
+display issue labeled as bug,1,0,0,0
+display task labeled as bug,1,0,0,0
+display ticket labeled as bug,1,0,0,0
+display item labeled as bug,1,0,0,0
 get bugs,1,0,0,0
 get bugs,1,0,0,0
 get bugs,1,0,0,0
@@ -31,10 +39,14 @@ get issue with bug label,1,0,0,0
 get task with bug label,1,0,0,0
 get ticket with bug label,1,0,0,0
 get item with bug label,1,0,0,0
-get issue labeled with bugget issue labeled as bug,1,0,0,0
-get task labeled with bugget task labeled as bug,1,0,0,0
-get ticket labeled with bugget ticket labeled as bug,1,0,0,0
-get item labeled with bugget item labeled as bug,1,0,0,0
+get issue labeled with bug,1,0,0,0
+get task labeled with bug,1,0,0,0
+get ticket labeled with bug,1,0,0,0
+get item labeled with bug,1,0,0,0
+get issue labeled as bug,1,0,0,0
+get task labeled as bug,1,0,0,0
+get ticket labeled as bug,1,0,0,0
+get item labeled as bug,1,0,0,0
 fetch bugs,1,0,0,0
 fetch bugs,1,0,0,0
 fetch bugs,1,0,0,0
@@ -43,10 +55,14 @@ fetch issue with bug label,1,0,0,0
 fetch task with bug label,1,0,0,0
 fetch ticket with bug label,1,0,0,0
 fetch item with bug label,1,0,0,0
-fetch issue labeled with bugfetch issue labeled as bug,1,0,0,0
-fetch task labeled with bugfetch task labeled as bug,1,0,0,0
-fetch ticket labeled with bugfetch ticket labeled as bug,1,0,0,0
-fetch item labeled with bugfetch item labeled as bug,1,0,0,0
+fetch issue labeled with bug,1,0,0,0
+fetch task labeled with bug,1,0,0,0
+fetch ticket labeled with bug,1,0,0,0
+fetch item labeled with bug,1,0,0,0
+fetch issue labeled as bug,1,0,0,0
+fetch task labeled as bug,1,0,0,0
+fetch ticket labeled as bug,1,0,0,0
+fetch item labeled as bug,1,0,0,0
 load bugs,1,0,0,0
 load bugs,1,0,0,0
 load bugs,1,0,0,0
@@ -55,10 +71,14 @@ load issue with bug label,1,0,0,0
 load task with bug label,1,0,0,0
 load ticket with bug label,1,0,0,0
 load item with bug label,1,0,0,0
-load issue labeled with bugload issue labeled as bug,1,0,0,0
-load task labeled with bugload task labeled as bug,1,0,0,0
-load ticket labeled with bugload ticket labeled as bug,1,0,0,0
-load item labeled with bugload item labeled as bug,1,0,0,0
+load issue labeled with bug,1,0,0,0
+load task labeled with bug,1,0,0,0
+load ticket labeled with bug,1,0,0,0
+load item labeled with bug,1,0,0,0
+load issue labeled as bug,1,0,0,0
+load task labeled as bug,1,0,0,0
+load ticket labeled as bug,1,0,0,0
+load item labeled as bug,1,0,0,0
 exclude bugs,-1,0,0,0
 exclude bugs,-1,0,0,0
 exclude bugs,-1,0,0,0
