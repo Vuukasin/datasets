@@ -1,0 +1,641 @@
+Sentence,Backlog,Unstarted,Started,Completed,Cancelled
+find issue where status is cancelled,0,0,0,0,1
+find task where status is cancelled,0,0,0,0,1
+find ticket where status is cancelled,0,0,0,0,1
+find item where status is cancelled,0,0,0,0,1
+display issue where status is cancelled,0,0,0,0,1
+display task where status is cancelled,0,0,0,0,1
+display ticket where status is cancelled,0,0,0,0,1
+display item where status is cancelled,0,0,0,0,1
+get issue where status is cancelled,0,0,0,0,1
+get task where status is cancelled,0,0,0,0,1
+get ticket where status is cancelled,0,0,0,0,1
+get item where status is cancelled,0,0,0,0,1
+fetch issue where status is cancelled,0,0,0,0,1
+fetch task where status is cancelled,0,0,0,0,1
+fetch ticket where status is cancelled,0,0,0,0,1
+fetch item where status is cancelled,0,0,0,0,1
+load issue where status is cancelled,0,0,0,0,1
+load task where status is cancelled,0,0,0,0,1
+load ticket where status is cancelled,0,0,0,0,1
+load item where status is cancelled,0,0,0,0,1
+find issue with cancelled status,0,0,0,0,1
+find task with cancelled status,0,0,0,0,1
+find ticket with cancelled status,0,0,0,0,1
+find item with cancelled status,0,0,0,0,1
+display issue with cancelled status,0,0,0,0,1
+display task with cancelled status,0,0,0,0,1
+display ticket with cancelled status,0,0,0,0,1
+display item with cancelled status,0,0,0,0,1
+get issue with cancelled status,0,0,0,0,1
+get task with cancelled status,0,0,0,0,1
+get ticket with cancelled status,0,0,0,0,1
+get item with cancelled status,0,0,0,0,1
+fetch issue with cancelled status,0,0,0,0,1
+fetch task with cancelled status,0,0,0,0,1
+fetch ticket with cancelled status,0,0,0,0,1
+fetch item with cancelled status,0,0,0,0,1
+load issue with cancelled status,0,0,0,0,1
+load task with cancelled status,0,0,0,0,1
+load ticket with cancelled status,0,0,0,0,1
+load item with cancelled status,0,0,0,0,1
+find cancelled issue,0,0,0,0,1
+find cancelled task,0,0,0,0,1
+find cancelled ticket,0,0,0,0,1
+find cancelled item,0,0,0,0,1
+display cancelled issue,0,0,0,0,1
+display cancelled task,0,0,0,0,1
+display cancelled ticket,0,0,0,0,1
+display cancelled item,0,0,0,0,1
+get cancelled issue,0,0,0,0,1
+get cancelled task,0,0,0,0,1
+get cancelled ticket,0,0,0,0,1
+get cancelled item,0,0,0,0,1
+fetch cancelled issue,0,0,0,0,1
+fetch cancelled task,0,0,0,0,1
+fetch cancelled ticket,0,0,0,0,1
+fetch cancelled item,0,0,0,0,1
+load cancelled issue,0,0,0,0,1
+load cancelled task,0,0,0,0,1
+load cancelled ticket,0,0,0,0,1
+load cancelled item,0,0,0,0,1
+cancelled issue,0,0,0,0,1
+cancelled task,0,0,0,0,1
+cancelled ticket,0,0,0,0,1
+cancelled item,0,0,0,0,1
+cancelled issue,0,0,0,0,1
+cancelled task,0,0,0,0,1
+cancelled ticket,0,0,0,0,1
+cancelled item,0,0,0,0,1
+cancelled issue,0,0,0,0,1
+cancelled task,0,0,0,0,1
+cancelled ticket,0,0,0,0,1
+cancelled item,0,0,0,0,1
+cancelled issue,0,0,0,0,1
+cancelled task,0,0,0,0,1
+cancelled ticket,0,0,0,0,1
+cancelled item,0,0,0,0,1
+cancelled issue,0,0,0,0,1
+cancelled task,0,0,0,0,1
+cancelled ticket,0,0,0,0,1
+cancelled item,0,0,0,0,1
+exclude issue where status is cancelled,0,0,0,0,-1
+exclude task where status is cancelled,0,0,0,0,-1
+exclude ticket where status is cancelled,0,0,0,0,-1
+exclude item where status is cancelled,0,0,0,0,-1
+filter out issue where status is cancelled,0,0,0,0,-1
+filter out task where status is cancelled,0,0,0,0,-1
+filter out ticket where status is cancelled,0,0,0,0,-1
+filter out item where status is cancelled,0,0,0,0,-1
+cut out issue where status is cancelled,0,0,0,0,-1
+cut out task where status is cancelled,0,0,0,0,-1
+cut out ticket where status is cancelled,0,0,0,0,-1
+cut out item where status is cancelled,0,0,0,0,-1
+keep out issue where status is cancelled,0,0,0,0,-1
+keep out task where status is cancelled,0,0,0,0,-1
+keep out ticket where status is cancelled,0,0,0,0,-1
+keep out item where status is cancelled,0,0,0,0,-1
+exclude issue with cancelled status,0,0,0,0,-1
+exclude task with cancelled status,0,0,0,0,-1
+exclude ticket with cancelled status,0,0,0,0,-1
+exclude item with cancelled status,0,0,0,0,-1
+filter out issue with cancelled status,0,0,0,0,-1
+filter out task with cancelled status,0,0,0,0,-1
+filter out ticket with cancelled status,0,0,0,0,-1
+filter out item with cancelled status,0,0,0,0,-1
+cut out issue with cancelled status,0,0,0,0,-1
+cut out task with cancelled status,0,0,0,0,-1
+cut out ticket with cancelled status,0,0,0,0,-1
+cut out item with cancelled status,0,0,0,0,-1
+keep out issue with cancelled status,0,0,0,0,-1
+keep out task with cancelled status,0,0,0,0,-1
+keep out ticket with cancelled status,0,0,0,0,-1
+keep out item with cancelled status,0,0,0,0,-1
+exclude cancelled issue,0,0,0,0,-1
+exclude cancelled task,0,0,0,0,-1
+exclude cancelled ticket,0,0,0,0,-1
+exclude cancelled item,0,0,0,0,-1
+filter out cancelled issue,0,0,0,0,-1
+filter out cancelled task,0,0,0,0,-1
+filter out cancelled ticket,0,0,0,0,-1
+filter out cancelled item,0,0,0,0,-1
+cut out cancelled issue,0,0,0,0,-1
+cut out cancelled task,0,0,0,0,-1
+cut out cancelled ticket,0,0,0,0,-1
+cut out cancelled item,0,0,0,0,-1
+keep out cancelled issue,0,0,0,0,-1
+keep out cancelled task,0,0,0,0,-1
+keep out cancelled ticket,0,0,0,0,-1
+keep out cancelled item,0,0,0,0,-1
+find issue where status is backlog,1,0,0,0,0
+find task where status is backlog,1,0,0,0,0
+find ticket where status is backlog,1,0,0,0,0
+find item where status is backlog,1,0,0,0,0
+display issue where status is backlog,1,0,0,0,0
+display task where status is backlog,1,0,0,0,0
+display ticket where status is backlog,1,0,0,0,0
+display item where status is backlog,1,0,0,0,0
+get issue where status is backlog,1,0,0,0,0
+get task where status is backlog,1,0,0,0,0
+get ticket where status is backlog,1,0,0,0,0
+get item where status is backlog,1,0,0,0,0
+fetch issue where status is backlog,1,0,0,0,0
+fetch task where status is backlog,1,0,0,0,0
+fetch ticket where status is backlog,1,0,0,0,0
+fetch item where status is backlog,1,0,0,0,0
+load issue where status is backlog,1,0,0,0,0
+load task where status is backlog,1,0,0,0,0
+load ticket where status is backlog,1,0,0,0,0
+load item where status is backlog,1,0,0,0,0
+find issue with backlog status,1,0,0,0,0
+find task with backlog status,1,0,0,0,0
+find ticket with backlog status,1,0,0,0,0
+find item with backlog status,1,0,0,0,0
+display issue with backlog status,1,0,0,0,0
+display task with backlog status,1,0,0,0,0
+display ticket with backlog status,1,0,0,0,0
+display item with backlog status,1,0,0,0,0
+get issue with backlog status,1,0,0,0,0
+get task with backlog status,1,0,0,0,0
+get ticket with backlog status,1,0,0,0,0
+get item with backlog status,1,0,0,0,0
+fetch issue with backlog status,1,0,0,0,0
+fetch task with backlog status,1,0,0,0,0
+fetch ticket with backlog status,1,0,0,0,0
+fetch item with backlog status,1,0,0,0,0
+load issue with backlog status,1,0,0,0,0
+load task with backlog status,1,0,0,0,0
+load ticket with backlog status,1,0,0,0,0
+load item with backlog status,1,0,0,0,0
+find backlog issue,1,0,0,0,0
+find backlog task,1,0,0,0,0
+find backlog ticket,1,0,0,0,0
+find backlog item,1,0,0,0,0
+display backlog issue,1,0,0,0,0
+display backlog task,1,0,0,0,0
+display backlog ticket,1,0,0,0,0
+display backlog item,1,0,0,0,0
+get backlog issue,1,0,0,0,0
+get backlog task,1,0,0,0,0
+get backlog ticket,1,0,0,0,0
+get backlog item,1,0,0,0,0
+fetch backlog issue,1,0,0,0,0
+fetch backlog task,1,0,0,0,0
+fetch backlog ticket,1,0,0,0,0
+fetch backlog item,1,0,0,0,0
+load backlog issue,1,0,0,0,0
+load backlog task,1,0,0,0,0
+load backlog ticket,1,0,0,0,0
+load backlog item,1,0,0,0,0
+backlog issue,1,0,0,0,0
+backlog task,1,0,0,0,0
+backlog ticket,1,0,0,0,0
+backlog item,1,0,0,0,0
+backlog issue,1,0,0,0,0
+backlog task,1,0,0,0,0
+backlog ticket,1,0,0,0,0
+backlog item,1,0,0,0,0
+backlog issue,1,0,0,0,0
+backlog task,1,0,0,0,0
+backlog ticket,1,0,0,0,0
+backlog item,1,0,0,0,0
+backlog issue,1,0,0,0,0
+backlog task,1,0,0,0,0
+backlog ticket,1,0,0,0,0
+backlog item,1,0,0,0,0
+backlog issue,1,0,0,0,0
+backlog task,1,0,0,0,0
+backlog ticket,1,0,0,0,0
+backlog item,1,0,0,0,0
+exclude issue where status is backlog,-1,0,0,0,0
+exclude task where status is backlog,-1,0,0,0,0
+exclude ticket where status is backlog,-1,0,0,0,0
+exclude item where status is backlog,-1,0,0,0,0
+filter out issue where status is backlog,-1,0,0,0,0
+filter out task where status is backlog,-1,0,0,0,0
+filter out ticket where status is backlog,-1,0,0,0,0
+filter out item where status is backlog,-1,0,0,0,0
+cut out issue where status is backlog,-1,0,0,0,0
+cut out task where status is backlog,-1,0,0,0,0
+cut out ticket where status is backlog,-1,0,0,0,0
+cut out item where status is backlog,-1,0,0,0,0
+keep out issue where status is backlog,-1,0,0,0,0
+keep out task where status is backlog,-1,0,0,0,0
+keep out ticket where status is backlog,-1,0,0,0,0
+keep out item where status is backlog,-1,0,0,0,0
+exclude issue with backlog status,-1,0,0,0,0
+exclude task with backlog status,-1,0,0,0,0
+exclude ticket with backlog status,-1,0,0,0,0
+exclude item with backlog status,-1,0,0,0,0
+filter out issue with backlog status,-1,0,0,0,0
+filter out task with backlog status,-1,0,0,0,0
+filter out ticket with backlog status,-1,0,0,0,0
+filter out item with backlog status,-1,0,0,0,0
+cut out issue with backlog status,-1,0,0,0,0
+cut out task with backlog status,-1,0,0,0,0
+cut out ticket with backlog status,-1,0,0,0,0
+cut out item with backlog status,-1,0,0,0,0
+keep out issue with backlog status,-1,0,0,0,0
+keep out task with backlog status,-1,0,0,0,0
+keep out ticket with backlog status,-1,0,0,0,0
+keep out item with backlog status,-1,0,0,0,0
+exclude backlog issue,-1,0,0,0,0
+exclude backlog task,-1,0,0,0,0
+exclude backlog ticket,-1,0,0,0,0
+exclude backlog item,-1,0,0,0,0
+filter out backlog issue,-1,0,0,0,0
+filter out backlog task,-1,0,0,0,0
+filter out backlog ticket,-1,0,0,0,0
+filter out backlog item,-1,0,0,0,0
+cut out backlog issue,-1,0,0,0,0
+cut out backlog task,-1,0,0,0,0
+cut out backlog ticket,-1,0,0,0,0
+cut out backlog item,-1,0,0,0,0
+keep out backlog issue,-1,0,0,0,0
+keep out backlog task,-1,0,0,0,0
+keep out backlog ticket,-1,0,0,0,0
+keep out backlog item,-1,0,0,0,0
+find issue where status is unstarted,0,1,0,0,0
+find task where status is unstarted,0,1,0,0,0
+find ticket where status is unstarted,0,1,0,0,0
+find item where status is unstarted,0,1,0,0,0
+display issue where status is unstarted,0,1,0,0,0
+display task where status is unstarted,0,1,0,0,0
+display ticket where status is unstarted,0,1,0,0,0
+display item where status is unstarted,0,1,0,0,0
+get issue where status is unstarted,0,1,0,0,0
+get task where status is unstarted,0,1,0,0,0
+get ticket where status is unstarted,0,1,0,0,0
+get item where status is unstarted,0,1,0,0,0
+fetch issue where status is unstarted,0,1,0,0,0
+fetch task where status is unstarted,0,1,0,0,0
+fetch ticket where status is unstarted,0,1,0,0,0
+fetch item where status is unstarted,0,1,0,0,0
+load issue where status is unstarted,0,1,0,0,0
+load task where status is unstarted,0,1,0,0,0
+load ticket where status is unstarted,0,1,0,0,0
+load item where status is unstarted,0,1,0,0,0
+find issue with unstarted status,0,1,0,0,0
+find task with unstarted status,0,1,0,0,0
+find ticket with unstarted status,0,1,0,0,0
+find item with unstarted status,0,1,0,0,0
+display issue with unstarted status,0,1,0,0,0
+display task with unstarted status,0,1,0,0,0
+display ticket with unstarted status,0,1,0,0,0
+display item with unstarted status,0,1,0,0,0
+get issue with unstarted status,0,1,0,0,0
+get task with unstarted status,0,1,0,0,0
+get ticket with unstarted status,0,1,0,0,0
+get item with unstarted status,0,1,0,0,0
+fetch issue with unstarted status,0,1,0,0,0
+fetch task with unstarted status,0,1,0,0,0
+fetch ticket with unstarted status,0,1,0,0,0
+fetch item with unstarted status,0,1,0,0,0
+load issue with unstarted status,0,1,0,0,0
+load task with unstarted status,0,1,0,0,0
+load ticket with unstarted status,0,1,0,0,0
+load item with unstarted status,0,1,0,0,0
+find unstarted issue,0,1,0,0,0
+find unstarted task,0,1,0,0,0
+find unstarted ticket,0,1,0,0,0
+find unstarted item,0,1,0,0,0
+display unstarted issue,0,1,0,0,0
+display unstarted task,0,1,0,0,0
+display unstarted ticket,0,1,0,0,0
+display unstarted item,0,1,0,0,0
+get unstarted issue,0,1,0,0,0
+get unstarted task,0,1,0,0,0
+get unstarted ticket,0,1,0,0,0
+get unstarted item,0,1,0,0,0
+fetch unstarted issue,0,1,0,0,0
+fetch unstarted task,0,1,0,0,0
+fetch unstarted ticket,0,1,0,0,0
+fetch unstarted item,0,1,0,0,0
+load unstarted issue,0,1,0,0,0
+load unstarted task,0,1,0,0,0
+load unstarted ticket,0,1,0,0,0
+load unstarted item,0,1,0,0,0
+unstarted issue,0,1,0,0,0
+unstarted task,0,1,0,0,0
+unstarted ticket,0,1,0,0,0
+unstarted item,0,1,0,0,0
+unstarted issue,0,1,0,0,0
+unstarted task,0,1,0,0,0
+unstarted ticket,0,1,0,0,0
+unstarted item,0,1,0,0,0
+unstarted issue,0,1,0,0,0
+unstarted task,0,1,0,0,0
+unstarted ticket,0,1,0,0,0
+unstarted item,0,1,0,0,0
+unstarted issue,0,1,0,0,0
+unstarted task,0,1,0,0,0
+unstarted ticket,0,1,0,0,0
+unstarted item,0,1,0,0,0
+unstarted issue,0,1,0,0,0
+unstarted task,0,1,0,0,0
+unstarted ticket,0,1,0,0,0
+unstarted item,0,1,0,0,0
+exclude issue where status is unstarted,0,-1,0,0,0
+exclude task where status is unstarted,0,-1,0,0,0
+exclude ticket where status is unstarted,0,-1,0,0,0
+exclude item where status is unstarted,0,-1,0,0,0
+filter out issue where status is unstarted,0,-1,0,0,0
+filter out task where status is unstarted,0,-1,0,0,0
+filter out ticket where status is unstarted,0,-1,0,0,0
+filter out item where status is unstarted,0,-1,0,0,0
+cut out issue where status is unstarted,0,-1,0,0,0
+cut out task where status is unstarted,0,-1,0,0,0
+cut out ticket where status is unstarted,0,-1,0,0,0
+cut out item where status is unstarted,0,-1,0,0,0
+keep out issue where status is unstarted,0,-1,0,0,0
+keep out task where status is unstarted,0,-1,0,0,0
+keep out ticket where status is unstarted,0,-1,0,0,0
+keep out item where status is unstarted,0,-1,0,0,0
+exclude issue with unstarted status,0,-1,0,0,0
+exclude task with unstarted status,0,-1,0,0,0
+exclude ticket with unstarted status,0,-1,0,0,0
+exclude item with unstarted status,0,-1,0,0,0
+filter out issue with unstarted status,0,-1,0,0,0
+filter out task with unstarted status,0,-1,0,0,0
+filter out ticket with unstarted status,0,-1,0,0,0
+filter out item with unstarted status,0,-1,0,0,0
+cut out issue with unstarted status,0,-1,0,0,0
+cut out task with unstarted status,0,-1,0,0,0
+cut out ticket with unstarted status,0,-1,0,0,0
+cut out item with unstarted status,0,-1,0,0,0
+keep out issue with unstarted status,0,-1,0,0,0
+keep out task with unstarted status,0,-1,0,0,0
+keep out ticket with unstarted status,0,-1,0,0,0
+keep out item with unstarted status,0,-1,0,0,0
+exclude unstarted issue,0,-1,0,0,0
+exclude unstarted task,0,-1,0,0,0
+exclude unstarted ticket,0,-1,0,0,0
+exclude unstarted item,0,-1,0,0,0
+filter out unstarted issue,0,-1,0,0,0
+filter out unstarted task,0,-1,0,0,0
+filter out unstarted ticket,0,-1,0,0,0
+filter out unstarted item,0,-1,0,0,0
+cut out unstarted issue,0,-1,0,0,0
+cut out unstarted task,0,-1,0,0,0
+cut out unstarted ticket,0,-1,0,0,0
+cut out unstarted item,0,-1,0,0,0
+keep out unstarted issue,0,-1,0,0,0
+keep out unstarted task,0,-1,0,0,0
+keep out unstarted ticket,0,-1,0,0,0
+keep out unstarted item,0,-1,0,0,0
+find issue where status is started,0,0,1,0,0
+find task where status is started,0,0,1,0,0
+find ticket where status is started,0,0,1,0,0
+find item where status is started,0,0,1,0,0
+display issue where status is started,0,0,1,0,0
+display task where status is started,0,0,1,0,0
+display ticket where status is started,0,0,1,0,0
+display item where status is started,0,0,1,0,0
+get issue where status is started,0,0,1,0,0
+get task where status is started,0,0,1,0,0
+get ticket where status is started,0,0,1,0,0
+get item where status is started,0,0,1,0,0
+fetch issue where status is started,0,0,1,0,0
+fetch task where status is started,0,0,1,0,0
+fetch ticket where status is started,0,0,1,0,0
+fetch item where status is started,0,0,1,0,0
+load issue where status is started,0,0,1,0,0
+load task where status is started,0,0,1,0,0
+load ticket where status is started,0,0,1,0,0
+load item where status is started,0,0,1,0,0
+find issue with started status,0,0,1,0,0
+find task with started status,0,0,1,0,0
+find ticket with started status,0,0,1,0,0
+find item with started status,0,0,1,0,0
+display issue with started status,0,0,1,0,0
+display task with started status,0,0,1,0,0
+display ticket with started status,0,0,1,0,0
+display item with started status,0,0,1,0,0
+get issue with started status,0,0,1,0,0
+get task with started status,0,0,1,0,0
+get ticket with started status,0,0,1,0,0
+get item with started status,0,0,1,0,0
+fetch issue with started status,0,0,1,0,0
+fetch task with started status,0,0,1,0,0
+fetch ticket with started status,0,0,1,0,0
+fetch item with started status,0,0,1,0,0
+load issue with started status,0,0,1,0,0
+load task with started status,0,0,1,0,0
+load ticket with started status,0,0,1,0,0
+load item with started status,0,0,1,0,0
+find started issue,0,0,1,0,0
+find started task,0,0,1,0,0
+find started ticket,0,0,1,0,0
+find started item,0,0,1,0,0
+display started issue,0,0,1,0,0
+display started task,0,0,1,0,0
+display started ticket,0,0,1,0,0
+display started item,0,0,1,0,0
+get started issue,0,0,1,0,0
+get started task,0,0,1,0,0
+get started ticket,0,0,1,0,0
+get started item,0,0,1,0,0
+fetch started issue,0,0,1,0,0
+fetch started task,0,0,1,0,0
+fetch started ticket,0,0,1,0,0
+fetch started item,0,0,1,0,0
+load started issue,0,0,1,0,0
+load started task,0,0,1,0,0
+load started ticket,0,0,1,0,0
+load started item,0,0,1,0,0
+started issue,0,0,1,0,0
+started task,0,0,1,0,0
+started ticket,0,0,1,0,0
+started item,0,0,1,0,0
+started issue,0,0,1,0,0
+started task,0,0,1,0,0
+started ticket,0,0,1,0,0
+started item,0,0,1,0,0
+started issue,0,0,1,0,0
+started task,0,0,1,0,0
+started ticket,0,0,1,0,0
+started item,0,0,1,0,0
+started issue,0,0,1,0,0
+started task,0,0,1,0,0
+started ticket,0,0,1,0,0
+started item,0,0,1,0,0
+started issue,0,0,1,0,0
+started task,0,0,1,0,0
+started ticket,0,0,1,0,0
+started item,0,0,1,0,0
+exclude issue where status is started,0,0,-1,0,0
+exclude task where status is started,0,0,-1,0,0
+exclude ticket where status is started,0,0,-1,0,0
+exclude item where status is started,0,0,-1,0,0
+filter out issue where status is started,0,0,-1,0,0
+filter out task where status is started,0,0,-1,0,0
+filter out ticket where status is started,0,0,-1,0,0
+filter out item where status is started,0,0,-1,0,0
+cut out issue where status is started,0,0,-1,0,0
+cut out task where status is started,0,0,-1,0,0
+cut out ticket where status is started,0,0,-1,0,0
+cut out item where status is started,0,0,-1,0,0
+keep out issue where status is started,0,0,-1,0,0
+keep out task where status is started,0,0,-1,0,0
+keep out ticket where status is started,0,0,-1,0,0
+keep out item where status is started,0,0,-1,0,0
+exclude issue with started status,0,0,-1,0,0
+exclude task with started status,0,0,-1,0,0
+exclude ticket with started status,0,0,-1,0,0
+exclude item with started status,0,0,-1,0,0
+filter out issue with started status,0,0,-1,0,0
+filter out task with started status,0,0,-1,0,0
+filter out ticket with started status,0,0,-1,0,0
+filter out item with started status,0,0,-1,0,0
+cut out issue with started status,0,0,-1,0,0
+cut out task with started status,0,0,-1,0,0
+cut out ticket with started status,0,0,-1,0,0
+cut out item with started status,0,0,-1,0,0
+keep out issue with started status,0,0,-1,0,0
+keep out task with started status,0,0,-1,0,0
+keep out ticket with started status,0,0,-1,0,0
+keep out item with started status,0,0,-1,0,0
+exclude started issue,0,0,-1,0,0
+exclude started task,0,0,-1,0,0
+exclude started ticket,0,0,-1,0,0
+exclude started item,0,0,-1,0,0
+filter out started issue,0,0,-1,0,0
+filter out started task,0,0,-1,0,0
+filter out started ticket,0,0,-1,0,0
+filter out started item,0,0,-1,0,0
+cut out started issue,0,0,-1,0,0
+cut out started task,0,0,-1,0,0
+cut out started ticket,0,0,-1,0,0
+cut out started item,0,0,-1,0,0
+keep out started issue,0,0,-1,0,0
+keep out started task,0,0,-1,0,0
+keep out started ticket,0,0,-1,0,0
+keep out started item,0,0,-1,0,0
+find issue where status is complete,0,0,0,1,0
+find task where status is complete,0,0,0,1,0
+find ticket where status is complete,0,0,0,1,0
+find item where status is complete,0,0,0,1,0
+display issue where status is complete,0,0,0,1,0
+display task where status is complete,0,0,0,1,0
+display ticket where status is complete,0,0,0,1,0
+display item where status is complete,0,0,0,1,0
+get issue where status is complete,0,0,0,1,0
+get task where status is complete,0,0,0,1,0
+get ticket where status is complete,0,0,0,1,0
+get item where status is complete,0,0,0,1,0
+fetch issue where status is complete,0,0,0,1,0
+fetch task where status is complete,0,0,0,1,0
+fetch ticket where status is complete,0,0,0,1,0
+fetch item where status is complete,0,0,0,1,0
+load issue where status is complete,0,0,0,1,0
+load task where status is complete,0,0,0,1,0
+load ticket where status is complete,0,0,0,1,0
+load item where status is complete,0,0,0,1,0
+find issue with complete status,0,0,0,1,0
+find task with complete status,0,0,0,1,0
+find ticket with complete status,0,0,0,1,0
+find item with complete status,0,0,0,1,0
+display issue with complete status,0,0,0,1,0
+display task with complete status,0,0,0,1,0
+display ticket with complete status,0,0,0,1,0
+display item with complete status,0,0,0,1,0
+get issue with complete status,0,0,0,1,0
+get task with complete status,0,0,0,1,0
+get ticket with complete status,0,0,0,1,0
+get item with complete status,0,0,0,1,0
+fetch issue with complete status,0,0,0,1,0
+fetch task with complete status,0,0,0,1,0
+fetch ticket with complete status,0,0,0,1,0
+fetch item with complete status,0,0,0,1,0
+load issue with complete status,0,0,0,1,0
+load task with complete status,0,0,0,1,0
+load ticket with complete status,0,0,0,1,0
+load item with complete status,0,0,0,1,0
+find complete issue,0,0,0,1,0
+find complete task,0,0,0,1,0
+find complete ticket,0,0,0,1,0
+find complete item,0,0,0,1,0
+display complete issue,0,0,0,1,0
+display complete task,0,0,0,1,0
+display complete ticket,0,0,0,1,0
+display complete item,0,0,0,1,0
+get complete issue,0,0,0,1,0
+get complete task,0,0,0,1,0
+get complete ticket,0,0,0,1,0
+get complete item,0,0,0,1,0
+fetch complete issue,0,0,0,1,0
+fetch complete task,0,0,0,1,0
+fetch complete ticket,0,0,0,1,0
+fetch complete item,0,0,0,1,0
+load complete issue,0,0,0,1,0
+load complete task,0,0,0,1,0
+load complete ticket,0,0,0,1,0
+load complete item,0,0,0,1,0
+complete issue,0,0,0,1,0
+complete task,0,0,0,1,0
+complete ticket,0,0,0,1,0
+complete item,0,0,0,1,0
+complete issue,0,0,0,1,0
+complete task,0,0,0,1,0
+complete ticket,0,0,0,1,0
+complete item,0,0,0,1,0
+complete issue,0,0,0,1,0
+complete task,0,0,0,1,0
+complete ticket,0,0,0,1,0
+complete item,0,0,0,1,0
+complete issue,0,0,0,1,0
+complete task,0,0,0,1,0
+complete ticket,0,0,0,1,0
+complete item,0,0,0,1,0
+complete issue,0,0,0,1,0
+complete task,0,0,0,1,0
+complete ticket,0,0,0,1,0
+complete item,0,0,0,1,0
+exclude issue where status is complete,0,0,0,-1,0
+exclude task where status is complete,0,0,0,-1,0
+exclude ticket where status is complete,0,0,0,-1,0
+exclude item where status is complete,0,0,0,-1,0
+filter out issue where status is complete,0,0,0,-1,0
+filter out task where status is complete,0,0,0,-1,0
+filter out ticket where status is complete,0,0,0,-1,0
+filter out item where status is complete,0,0,0,-1,0
+cut out issue where status is complete,0,0,0,-1,0
+cut out task where status is complete,0,0,0,-1,0
+cut out ticket where status is complete,0,0,0,-1,0
+cut out item where status is complete,0,0,0,-1,0
+keep out issue where status is complete,0,0,0,-1,0
+keep out task where status is complete,0,0,0,-1,0
+keep out ticket where status is complete,0,0,0,-1,0
+keep out item where status is complete,0,0,0,-1,0
+exclude issue with complete status,0,0,0,-1,0
+exclude task with complete status,0,0,0,-1,0
+exclude ticket with complete status,0,0,0,-1,0
+exclude item with complete status,0,0,0,-1,0
+filter out issue with complete status,0,0,0,-1,0
+filter out task with complete status,0,0,0,-1,0
+filter out ticket with complete status,0,0,0,-1,0
+filter out item with complete status,0,0,0,-1,0
+cut out issue with complete status,0,0,0,-1,0
+cut out task with complete status,0,0,0,-1,0
+cut out ticket with complete status,0,0,0,-1,0
+cut out item with complete status,0,0,0,-1,0
+keep out issue with complete status,0,0,0,-1,0
+keep out task with complete status,0,0,0,-1,0
+keep out ticket with complete status,0,0,0,-1,0
+keep out item with complete status,0,0,0,-1,0
+exclude complete issue,0,0,0,-1,0
+exclude complete task,0,0,0,-1,0
+exclude complete ticket,0,0,0,-1,0
+exclude complete item,0,0,0,-1,0
+filter out complete issue,0,0,0,-1,0
+filter out complete task,0,0,0,-1,0
+filter out complete ticket,0,0,0,-1,0
+filter out complete item,0,0,0,-1,0
+cut out complete issue,0,0,0,-1,0
+cut out complete task,0,0,0,-1,0
+cut out complete ticket,0,0,0,-1,0
+cut out complete item,0,0,0,-1,0
+keep out complete issue,0,0,0,-1,0
+keep out complete task,0,0,0,-1,0
+keep out complete ticket,0,0,0,-1,0
+keep out complete item,0,0,0,-1,0

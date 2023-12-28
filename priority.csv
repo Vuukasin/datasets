@@ -1,0 +1,577 @@
+Sentence,NoPriority,Low,Medium,High,Urgent
+find issue where priority is urgent,0,0,0,0,1
+find urgent priority issue,0,0,0,0,1
+find issue with urgent priority,0,0,0,0,1
+find task where priority is urgent,0,0,0,0,1
+find urgent priority task,0,0,0,0,1
+find task with urgent priority,0,0,0,0,1
+find ticket where priority is urgent,0,0,0,0,1
+find urgent priority ticket,0,0,0,0,1
+find ticket with urgent priority,0,0,0,0,1
+find item where priority is urgent,0,0,0,0,1
+find urgent priority item,0,0,0,0,1
+find item with urgent priority,0,0,0,0,1
+display issue where priority is urgent,0,0,0,0,1
+display urgent priority issue,0,0,0,0,1
+display issue with urgent priority,0,0,0,0,1
+display task where priority is urgent,0,0,0,0,1
+display urgent priority task,0,0,0,0,1
+display task with urgent priority,0,0,0,0,1
+display ticket where priority is urgent,0,0,0,0,1
+display urgent priority ticket,0,0,0,0,1
+display ticket with urgent priority,0,0,0,0,1
+display item where priority is urgent,0,0,0,0,1
+display urgent priority item,0,0,0,0,1
+display item with urgent priority,0,0,0,0,1
+get issue where priority is urgent,0,0,0,0,1
+get urgent priority issue,0,0,0,0,1
+get issue with urgent priority,0,0,0,0,1
+get task where priority is urgent,0,0,0,0,1
+get urgent priority task,0,0,0,0,1
+get task with urgent priority,0,0,0,0,1
+get ticket where priority is urgent,0,0,0,0,1
+get urgent priority ticket,0,0,0,0,1
+get ticket with urgent priority,0,0,0,0,1
+get item where priority is urgent,0,0,0,0,1
+get urgent priority item,0,0,0,0,1
+get item with urgent priority,0,0,0,0,1
+fetch issue where priority is urgent,0,0,0,0,1
+fetch urgent priority issue,0,0,0,0,1
+fetch issue with urgent priority,0,0,0,0,1
+fetch task where priority is urgent,0,0,0,0,1
+fetch urgent priority task,0,0,0,0,1
+fetch task with urgent priority,0,0,0,0,1
+fetch ticket where priority is urgent,0,0,0,0,1
+fetch urgent priority ticket,0,0,0,0,1
+fetch ticket with urgent priority,0,0,0,0,1
+fetch item where priority is urgent,0,0,0,0,1
+fetch urgent priority item,0,0,0,0,1
+fetch item with urgent priority,0,0,0,0,1
+load issue where priority is urgent,0,0,0,0,1
+load urgent priority issue,0,0,0,0,1
+load issue with urgent priority,0,0,0,0,1
+load task where priority is urgent,0,0,0,0,1
+load urgent priority task,0,0,0,0,1
+load task with urgent priority,0,0,0,0,1
+load ticket where priority is urgent,0,0,0,0,1
+load urgent priority ticket,0,0,0,0,1
+load ticket with urgent priority,0,0,0,0,1
+load item where priority is urgent,0,0,0,0,1
+load urgent priority item,0,0,0,0,1
+load item with urgent priority,0,0,0,0,1
+exclude urgent priority issue,0,0,0,0,-1
+exclude issue where priority is urgent,0,0,0,0,-1
+exclude issue with urgent priority,0,0,0,0,-1
+exclude urgent priority task,0,0,0,0,-1
+exclude task where priority is urgent,0,0,0,0,-1
+exclude task with urgent priority,0,0,0,0,-1
+exclude urgent priority ticket,0,0,0,0,-1
+exclude ticket where priority is urgent,0,0,0,0,-1
+exclude ticket with urgent priority,0,0,0,0,-1
+exclude urgent priority item,0,0,0,0,-1
+exclude item where priority is urgent,0,0,0,0,-1
+exclude item with urgent priority,0,0,0,0,-1
+filter out urgent priority issue,0,0,0,0,-1
+filter out issue where priority is urgent,0,0,0,0,-1
+filter out issue with urgent priority,0,0,0,0,-1
+filter out urgent priority task,0,0,0,0,-1
+filter out task where priority is urgent,0,0,0,0,-1
+filter out task with urgent priority,0,0,0,0,-1
+filter out urgent priority ticket,0,0,0,0,-1
+filter out ticket where priority is urgent,0,0,0,0,-1
+filter out ticket with urgent priority,0,0,0,0,-1
+filter out urgent priority item,0,0,0,0,-1
+filter out item where priority is urgent,0,0,0,0,-1
+filter out item with urgent priority,0,0,0,0,-1
+cut out urgent priority issue,0,0,0,0,-1
+cut out issue where priority is urgent,0,0,0,0,-1
+cut out issue with urgent priority,0,0,0,0,-1
+cut out urgent priority task,0,0,0,0,-1
+cut out task where priority is urgent,0,0,0,0,-1
+cut out task with urgent priority,0,0,0,0,-1
+cut out urgent priority ticket,0,0,0,0,-1
+cut out ticket where priority is urgent,0,0,0,0,-1
+cut out ticket with urgent priority,0,0,0,0,-1
+cut out urgent priority item,0,0,0,0,-1
+cut out item where priority is urgent,0,0,0,0,-1
+cut out item with urgent priority,0,0,0,0,-1
+keep out urgent priority issue,0,0,0,0,-1
+keep out issue where priority is urgent,0,0,0,0,-1
+keep out issue with urgent priority,0,0,0,0,-1
+keep out urgent priority task,0,0,0,0,-1
+keep out task where priority is urgent,0,0,0,0,-1
+keep out task with urgent priority,0,0,0,0,-1
+keep out urgent priority ticket,0,0,0,0,-1
+keep out ticket where priority is urgent,0,0,0,0,-1
+keep out ticket with urgent priority,0,0,0,0,-1
+keep out urgent priority item,0,0,0,0,-1
+keep out item where priority is urgent,0,0,0,0,-1
+keep out item with urgent priority,0,0,0,0,-1
+find issue without priority,1,0,0,0,0
+display issue without priority,1,0,0,0,0
+get issue without priority,1,0,0,0,0
+fetch issue without priority,1,0,0,0,0
+load issue without priority,1,0,0,0,0
+find issue where priority is null,1,0,0,0,0
+display issue where priority is null,1,0,0,0,0
+get issue where priority is null,1,0,0,0,0
+fetch issue where priority is null,1,0,0,0,0
+load issue where priority is null,1,0,0,0,0
+find issue where priority is no priority,1,0,0,0,0
+display issue where priority is no priority,1,0,0,0,0
+get issue where priority is no priority,1,0,0,0,0
+fetch issue where priority is no priority,1,0,0,0,0
+load issue where priority is no priority,1,0,0,0,0
+find issue where priority is not defined,1,0,0,0,0
+display issue where priority is not defined,1,0,0,0,0
+get issue where priority is not defined,1,0,0,0,0
+fetch issue where priority is not defined,1,0,0,0,0
+load issue where priority is not defined,1,0,0,0,0
+find task without priority,1,0,0,0,0
+display task without priority,1,0,0,0,0
+get task without priority,1,0,0,0,0
+fetch task without priority,1,0,0,0,0
+load task without priority,1,0,0,0,0
+find task where priority is null,1,0,0,0,0
+display task where priority is null,1,0,0,0,0
+get task where priority is null,1,0,0,0,0
+fetch task where priority is null,1,0,0,0,0
+load task where priority is null,1,0,0,0,0
+find task where priority is no priority,1,0,0,0,0
+display task where priority is no priority,1,0,0,0,0
+get task where priority is no priority,1,0,0,0,0
+fetch task where priority is no priority,1,0,0,0,0
+load task where priority is no priority,1,0,0,0,0
+find task where priority is not defined,1,0,0,0,0
+display task where priority is not defined,1,0,0,0,0
+get task where priority is not defined,1,0,0,0,0
+fetch task where priority is not defined,1,0,0,0,0
+load task where priority is not defined,1,0,0,0,0
+find ticket without priority,1,0,0,0,0
+display ticket without priority,1,0,0,0,0
+get ticket without priority,1,0,0,0,0
+fetch ticket without priority,1,0,0,0,0
+load ticket without priority,1,0,0,0,0
+find ticket where priority is null,1,0,0,0,0
+display ticket where priority is null,1,0,0,0,0
+get ticket where priority is null,1,0,0,0,0
+fetch ticket where priority is null,1,0,0,0,0
+load ticket where priority is null,1,0,0,0,0
+find ticket where priority is no priority,1,0,0,0,0
+display ticket where priority is no priority,1,0,0,0,0
+get ticket where priority is no priority,1,0,0,0,0
+fetch ticket where priority is no priority,1,0,0,0,0
+load ticket where priority is no priority,1,0,0,0,0
+find ticket where priority is not defined,1,0,0,0,0
+display ticket where priority is not defined,1,0,0,0,0
+get ticket where priority is not defined,1,0,0,0,0
+fetch ticket where priority is not defined,1,0,0,0,0
+load ticket where priority is not defined,1,0,0,0,0
+find item without priority,1,0,0,0,0
+display item without priority,1,0,0,0,0
+get item without priority,1,0,0,0,0
+fetch item without priority,1,0,0,0,0
+load item without priority,1,0,0,0,0
+find item where priority is null,1,0,0,0,0
+display item where priority is null,1,0,0,0,0
+get item where priority is null,1,0,0,0,0
+fetch item where priority is null,1,0,0,0,0
+load item where priority is null,1,0,0,0,0
+find item where priority is no priority,1,0,0,0,0
+display item where priority is no priority,1,0,0,0,0
+get item where priority is no priority,1,0,0,0,0
+fetch item where priority is no priority,1,0,0,0,0
+load item where priority is no priority,1,0,0,0,0
+find item where priority is not defined,1,0,0,0,0
+display item where priority is not defined,1,0,0,0,0
+get item where priority is not defined,1,0,0,0,0
+fetch item where priority is not defined,1,0,0,0,0
+load item where priority is not defined,1,0,0,0,0
+exclude issue without priority,-1,0,0,0,0
+exclude issue where priority is null,-1,0,0,0,0
+exclude issue where priority is no priority,-1,0,0,0,0
+exclude issue where priority is not defined,-1,0,0,0,0
+exclude task without priority,-1,0,0,0,0
+exclude task where priority is null,-1,0,0,0,0
+exclude task where priority is no priority,-1,0,0,0,0
+exclude task where priority is not defined,-1,0,0,0,0
+exclude ticket without priority,-1,0,0,0,0
+exclude ticket where priority is null,-1,0,0,0,0
+exclude ticket where priority is no priority,-1,0,0,0,0
+exclude ticket where priority is not defined,-1,0,0,0,0
+exclude item without priority,-1,0,0,0,0
+exclude item where priority is null,-1,0,0,0,0
+exclude item where priority is no priority,-1,0,0,0,0
+exclude item where priority is not defined,-1,0,0,0,0
+filter out issue without priority,-1,0,0,0,0
+filter out issue where priority is null,-1,0,0,0,0
+filter out issue where priority is no priority,-1,0,0,0,0
+filter out issue where priority is not defined,-1,0,0,0,0
+filter out task without priority,-1,0,0,0,0
+filter out task where priority is null,-1,0,0,0,0
+filter out task where priority is no priority,-1,0,0,0,0
+filter out task where priority is not defined,-1,0,0,0,0
+filter out ticket without priority,-1,0,0,0,0
+filter out ticket where priority is null,-1,0,0,0,0
+filter out ticket where priority is no priority,-1,0,0,0,0
+filter out ticket where priority is not defined,-1,0,0,0,0
+filter out item without priority,-1,0,0,0,0
+filter out item where priority is null,-1,0,0,0,0
+filter out item where priority is no priority,-1,0,0,0,0
+filter out item where priority is not defined,-1,0,0,0,0
+cut out issue without priority,-1,0,0,0,0
+cut out issue where priority is null,-1,0,0,0,0
+cut out issue where priority is no priority,-1,0,0,0,0
+cut out issue where priority is not defined,-1,0,0,0,0
+cut out task without priority,-1,0,0,0,0
+cut out task where priority is null,-1,0,0,0,0
+cut out task where priority is no priority,-1,0,0,0,0
+cut out task where priority is not defined,-1,0,0,0,0
+cut out ticket without priority,-1,0,0,0,0
+cut out ticket where priority is null,-1,0,0,0,0
+cut out ticket where priority is no priority,-1,0,0,0,0
+cut out ticket where priority is not defined,-1,0,0,0,0
+cut out item without priority,-1,0,0,0,0
+cut out item where priority is null,-1,0,0,0,0
+cut out item where priority is no priority,-1,0,0,0,0
+cut out item where priority is not defined,-1,0,0,0,0
+keep out issue without priority,-1,0,0,0,0
+keep out issue where priority is null,-1,0,0,0,0
+keep out issue where priority is no priority,-1,0,0,0,0
+keep out issue where priority is not defined,-1,0,0,0,0
+keep out task without priority,-1,0,0,0,0
+keep out task where priority is null,-1,0,0,0,0
+keep out task where priority is no priority,-1,0,0,0,0
+keep out task where priority is not defined,-1,0,0,0,0
+keep out ticket without priority,-1,0,0,0,0
+keep out ticket where priority is null,-1,0,0,0,0
+keep out ticket where priority is no priority,-1,0,0,0,0
+keep out ticket where priority is not defined,-1,0,0,0,0
+keep out item without priority,-1,0,0,0,0
+keep out item where priority is null,-1,0,0,0,0
+keep out item where priority is no priority,-1,0,0,0,0
+keep out item where priority is not defined,-1,0,0,0,0
+find issue where priority is low,0,1,0,0,0
+find low priority issue,0,1,0,0,0
+find issue with medium priority,0,1,0,0,0
+find task where priority is low,0,1,0,0,0
+find low priority task,0,1,0,0,0
+find task with medium priority,0,1,0,0,0
+find ticket where priority is low,0,1,0,0,0
+find low priority ticket,0,1,0,0,0
+find ticket with medium priority,0,1,0,0,0
+find item where priority is low,0,1,0,0,0
+find low priority item,0,1,0,0,0
+find item with medium priority,0,1,0,0,0
+display issue where priority is low,0,1,0,0,0
+display low priority issue,0,1,0,0,0
+display issue with medium priority,0,1,0,0,0
+display task where priority is low,0,1,0,0,0
+display low priority task,0,1,0,0,0
+display task with medium priority,0,1,0,0,0
+display ticket where priority is low,0,1,0,0,0
+display low priority ticket,0,1,0,0,0
+display ticket with medium priority,0,1,0,0,0
+display item where priority is low,0,1,0,0,0
+display low priority item,0,1,0,0,0
+display item with medium priority,0,1,0,0,0
+get issue where priority is low,0,1,0,0,0
+get low priority issue,0,1,0,0,0
+get issue with medium priority,0,1,0,0,0
+get task where priority is low,0,1,0,0,0
+get low priority task,0,1,0,0,0
+get task with medium priority,0,1,0,0,0
+get ticket where priority is low,0,1,0,0,0
+get low priority ticket,0,1,0,0,0
+get ticket with medium priority,0,1,0,0,0
+get item where priority is low,0,1,0,0,0
+get low priority item,0,1,0,0,0
+get item with medium priority,0,1,0,0,0
+fetch issue where priority is low,0,1,0,0,0
+fetch low priority issue,0,1,0,0,0
+fetch issue with medium priority,0,1,0,0,0
+fetch task where priority is low,0,1,0,0,0
+fetch low priority task,0,1,0,0,0
+fetch task with medium priority,0,1,0,0,0
+fetch ticket where priority is low,0,1,0,0,0
+fetch low priority ticket,0,1,0,0,0
+fetch ticket with medium priority,0,1,0,0,0
+fetch item where priority is low,0,1,0,0,0
+fetch low priority item,0,1,0,0,0
+fetch item with medium priority,0,1,0,0,0
+load issue where priority is low,0,1,0,0,0
+load low priority issue,0,1,0,0,0
+load issue with medium priority,0,1,0,0,0
+load task where priority is low,0,1,0,0,0
+load low priority task,0,1,0,0,0
+load task with medium priority,0,1,0,0,0
+load ticket where priority is low,0,1,0,0,0
+load low priority ticket,0,1,0,0,0
+load ticket with medium priority,0,1,0,0,0
+load item where priority is low,0,1,0,0,0
+load low priority item,0,1,0,0,0
+load item with medium priority,0,1,0,0,0
+exclude low priority issue,0,-1,0,0,0
+exclude issue where priority is low,0,-1,0,0,0
+exclude issue with low priority,0,-1,0,0,0
+exclude low priority task,0,-1,0,0,0
+exclude task where priority is low,0,-1,0,0,0
+exclude task with low priority,0,-1,0,0,0
+exclude low priority ticket,0,-1,0,0,0
+exclude ticket where priority is low,0,-1,0,0,0
+exclude ticket with low priority,0,-1,0,0,0
+exclude low priority item,0,-1,0,0,0
+exclude item where priority is low,0,-1,0,0,0
+exclude item with low priority,0,-1,0,0,0
+filter out low priority issue,0,-1,0,0,0
+filter out issue where priority is low,0,-1,0,0,0
+filter out issue with low priority,0,-1,0,0,0
+filter out low priority task,0,-1,0,0,0
+filter out task where priority is low,0,-1,0,0,0
+filter out task with low priority,0,-1,0,0,0
+filter out low priority ticket,0,-1,0,0,0
+filter out ticket where priority is low,0,-1,0,0,0
+filter out ticket with low priority,0,-1,0,0,0
+filter out low priority item,0,-1,0,0,0
+filter out item where priority is low,0,-1,0,0,0
+filter out item with low priority,0,-1,0,0,0
+cut out low priority issue,0,-1,0,0,0
+cut out issue where priority is low,0,-1,0,0,0
+cut out issue with low priority,0,-1,0,0,0
+cut out low priority task,0,-1,0,0,0
+cut out task where priority is low,0,-1,0,0,0
+cut out task with low priority,0,-1,0,0,0
+cut out low priority ticket,0,-1,0,0,0
+cut out ticket where priority is low,0,-1,0,0,0
+cut out ticket with low priority,0,-1,0,0,0
+cut out low priority item,0,-1,0,0,0
+cut out item where priority is low,0,-1,0,0,0
+cut out item with low priority,0,-1,0,0,0
+keep out low priority issue,0,-1,0,0,0
+keep out issue where priority is low,0,-1,0,0,0
+keep out issue with low priority,0,-1,0,0,0
+keep out low priority task,0,-1,0,0,0
+keep out task where priority is low,0,-1,0,0,0
+keep out task with low priority,0,-1,0,0,0
+keep out low priority ticket,0,-1,0,0,0
+keep out ticket where priority is low,0,-1,0,0,0
+keep out ticket with low priority,0,-1,0,0,0
+keep out low priority item,0,-1,0,0,0
+keep out item where priority is low,0,-1,0,0,0
+keep out item with low priority,0,-1,0,0,0
+find issue where priority is medium,0,0,1,0,0
+find medium priority issue,0,0,1,0,0
+find issue with medium priority,0,0,1,0,0
+find task where priority is medium,0,0,1,0,0
+find medium priority task,0,0,1,0,0
+find task with medium priority,0,0,1,0,0
+find ticket where priority is medium,0,0,1,0,0
+find medium priority ticket,0,0,1,0,0
+find ticket with medium priority,0,0,1,0,0
+find item where priority is medium,0,0,1,0,0
+find medium priority item,0,0,1,0,0
+find item with medium priority,0,0,1,0,0
+display issue where priority is medium,0,0,1,0,0
+display medium priority issue,0,0,1,0,0
+display issue with medium priority,0,0,1,0,0
+display task where priority is medium,0,0,1,0,0
+display medium priority task,0,0,1,0,0
+display task with medium priority,0,0,1,0,0
+display ticket where priority is medium,0,0,1,0,0
+display medium priority ticket,0,0,1,0,0
+display ticket with medium priority,0,0,1,0,0
+display item where priority is medium,0,0,1,0,0
+display medium priority item,0,0,1,0,0
+display item with medium priority,0,0,1,0,0
+get issue where priority is medium,0,0,1,0,0
+get medium priority issue,0,0,1,0,0
+get issue with medium priority,0,0,1,0,0
+get task where priority is medium,0,0,1,0,0
+get medium priority task,0,0,1,0,0
+get task with medium priority,0,0,1,0,0
+get ticket where priority is medium,0,0,1,0,0
+get medium priority ticket,0,0,1,0,0
+get ticket with medium priority,0,0,1,0,0
+get item where priority is medium,0,0,1,0,0
+get medium priority item,0,0,1,0,0
+get item with medium priority,0,0,1,0,0
+fetch issue where priority is medium,0,0,1,0,0
+fetch medium priority issue,0,0,1,0,0
+fetch issue with medium priority,0,0,1,0,0
+fetch task where priority is medium,0,0,1,0,0
+fetch medium priority task,0,0,1,0,0
+fetch task with medium priority,0,0,1,0,0
+fetch ticket where priority is medium,0,0,1,0,0
+fetch medium priority ticket,0,0,1,0,0
+fetch ticket with medium priority,0,0,1,0,0
+fetch item where priority is medium,0,0,1,0,0
+fetch medium priority item,0,0,1,0,0
+fetch item with medium priority,0,0,1,0,0
+load issue where priority is medium,0,0,1,0,0
+load medium priority issue,0,0,1,0,0
+load issue with medium priority,0,0,1,0,0
+load task where priority is medium,0,0,1,0,0
+load medium priority task,0,0,1,0,0
+load task with medium priority,0,0,1,0,0
+load ticket where priority is medium,0,0,1,0,0
+load medium priority ticket,0,0,1,0,0
+load ticket with medium priority,0,0,1,0,0
+load item where priority is medium,0,0,1,0,0
+load medium priority item,0,0,1,0,0
+load item with medium priority,0,0,1,0,0
+exclude medium priority issue,0,0,-1,0,0
+exclude issue where priority is medium,0,0,-1,0,0
+exclude issue with medium priority,0,0,-1,0,0
+exclude medium priority task,0,0,-1,0,0
+exclude task where priority is medium,0,0,-1,0,0
+exclude task with medium priority,0,0,-1,0,0
+exclude medium priority ticket,0,0,-1,0,0
+exclude ticket where priority is medium,0,0,-1,0,0
+exclude ticket with medium priority,0,0,-1,0,0
+exclude medium priority item,0,0,-1,0,0
+exclude item where priority is medium,0,0,-1,0,0
+exclude item with medium priority,0,0,-1,0,0
+filter out medium priority issue,0,0,-1,0,0
+filter out issue where priority is medium,0,0,-1,0,0
+filter out issue with medium priority,0,0,-1,0,0
+filter out medium priority task,0,0,-1,0,0
+filter out task where priority is medium,0,0,-1,0,0
+filter out task with medium priority,0,0,-1,0,0
+filter out medium priority ticket,0,0,-1,0,0
+filter out ticket where priority is medium,0,0,-1,0,0
+filter out ticket with medium priority,0,0,-1,0,0
+filter out medium priority item,0,0,-1,0,0
+filter out item where priority is medium,0,0,-1,0,0
+filter out item with medium priority,0,0,-1,0,0
+cut out medium priority issue,0,0,-1,0,0
+cut out issue where priority is medium,0,0,-1,0,0
+cut out issue with medium priority,0,0,-1,0,0
+cut out medium priority task,0,0,-1,0,0
+cut out task where priority is medium,0,0,-1,0,0
+cut out task with medium priority,0,0,-1,0,0
+cut out medium priority ticket,0,0,-1,0,0
+cut out ticket where priority is medium,0,0,-1,0,0
+cut out ticket with medium priority,0,0,-1,0,0
+cut out medium priority item,0,0,-1,0,0
+cut out item where priority is medium,0,0,-1,0,0
+cut out item with medium priority,0,0,-1,0,0
+keep out medium priority issue,0,0,-1,0,0
+keep out issue where priority is medium,0,0,-1,0,0
+keep out issue with medium priority,0,0,-1,0,0
+keep out medium priority task,0,0,-1,0,0
+keep out task where priority is medium,0,0,-1,0,0
+keep out task with medium priority,0,0,-1,0,0
+keep out medium priority ticket,0,0,-1,0,0
+keep out ticket where priority is medium,0,0,-1,0,0
+keep out ticket with medium priority,0,0,-1,0,0
+keep out medium priority item,0,0,-1,0,0
+keep out item where priority is medium,0,0,-1,0,0
+keep out item with medium priority,0,0,-1,0,0
+find issue where priority is high,0,0,0,1,0
+find high priority issue,0,0,0,1,0
+find issue with high priority,0,0,0,1,0
+find task where priority is high,0,0,0,1,0
+find high priority task,0,0,0,1,0
+find task with high priority,0,0,0,1,0
+find ticket where priority is high,0,0,0,1,0
+find high priority ticket,0,0,0,1,0
+find ticket with high priority,0,0,0,1,0
+find item where priority is high,0,0,0,1,0
+find high priority item,0,0,0,1,0
+find item with high priority,0,0,0,1,0
+display issue where priority is high,0,0,0,1,0
+display high priority issue,0,0,0,1,0
+display issue with high priority,0,0,0,1,0
+display task where priority is high,0,0,0,1,0
+display high priority task,0,0,0,1,0
+display task with high priority,0,0,0,1,0
+display ticket where priority is high,0,0,0,1,0
+display high priority ticket,0,0,0,1,0
+display ticket with high priority,0,0,0,1,0
+display item where priority is high,0,0,0,1,0
+display high priority item,0,0,0,1,0
+display item with high priority,0,0,0,1,0
+get issue where priority is high,0,0,0,1,0
+get high priority issue,0,0,0,1,0
+get issue with high priority,0,0,0,1,0
+get task where priority is high,0,0,0,1,0
+get high priority task,0,0,0,1,0
+get task with high priority,0,0,0,1,0
+get ticket where priority is high,0,0,0,1,0
+get high priority ticket,0,0,0,1,0
+get ticket with high priority,0,0,0,1,0
+get item where priority is high,0,0,0,1,0
+get high priority item,0,0,0,1,0
+get item with high priority,0,0,0,1,0
+fetch issue where priority is high,0,0,0,1,0
+fetch high priority issue,0,0,0,1,0
+fetch issue with high priority,0,0,0,1,0
+fetch task where priority is high,0,0,0,1,0
+fetch high priority task,0,0,0,1,0
+fetch task with high priority,0,0,0,1,0
+fetch ticket where priority is high,0,0,0,1,0
+fetch high priority ticket,0,0,0,1,0
+fetch ticket with high priority,0,0,0,1,0
+fetch item where priority is high,0,0,0,1,0
+fetch high priority item,0,0,0,1,0
+fetch item with high priority,0,0,0,1,0
+load issue where priority is high,0,0,0,1,0
+load high priority issue,0,0,0,1,0
+load issue with high priority,0,0,0,1,0
+load task where priority is high,0,0,0,1,0
+load high priority task,0,0,0,1,0
+load task with high priority,0,0,0,1,0
+load ticket where priority is high,0,0,0,1,0
+load high priority ticket,0,0,0,1,0
+load ticket with high priority,0,0,0,1,0
+load item where priority is high,0,0,0,1,0
+load high priority item,0,0,0,1,0
+load item with high priority,0,0,0,1,0
+exclude high priority issue,0,0,0,-1,0
+exclude issue where priority is high,0,0,0,-1,0
+exclude issue with high priority,0,0,0,-1,0
+exclude high priority task,0,0,0,-1,0
+exclude task where priority is high,0,0,0,-1,0
+exclude task with high priority,0,0,0,-1,0
+exclude high priority ticket,0,0,0,-1,0
+exclude ticket where priority is high,0,0,0,-1,0
+exclude ticket with high priority,0,0,0,-1,0
+exclude high priority item,0,0,0,-1,0
+exclude item where priority is high,0,0,0,-1,0
+exclude item with high priority,0,0,0,-1,0
+filter out high priority issue,0,0,0,-1,0
+filter out issue where priority is high,0,0,0,-1,0
+filter out issue with high priority,0,0,0,-1,0
+filter out high priority task,0,0,0,-1,0
+filter out task where priority is high,0,0,0,-1,0
+filter out task with high priority,0,0,0,-1,0
+filter out high priority ticket,0,0,0,-1,0
+filter out ticket where priority is high,0,0,0,-1,0
+filter out ticket with high priority,0,0,0,-1,0
+filter out high priority item,0,0,0,-1,0
+filter out item where priority is high,0,0,0,-1,0
+filter out item with high priority,0,0,0,-1,0
+cut out high priority issue,0,0,0,-1,0
+cut out issue where priority is high,0,0,0,-1,0
+cut out issue with high priority,0,0,0,-1,0
+cut out high priority task,0,0,0,-1,0
+cut out task where priority is high,0,0,0,-1,0
+cut out task with high priority,0,0,0,-1,0
+cut out high priority ticket,0,0,0,-1,0
+cut out ticket where priority is high,0,0,0,-1,0
+cut out ticket with high priority,0,0,0,-1,0
+cut out high priority item,0,0,0,-1,0
+cut out item where priority is high,0,0,0,-1,0
+cut out item with high priority,0,0,0,-1,0
+keep out high priority issue,0,0,0,-1,0
+keep out issue where priority is high,0,0,0,-1,0
+keep out issue with high priority,0,0,0,-1,0
+keep out high priority task,0,0,0,-1,0
+keep out task where priority is high,0,0,0,-1,0
+keep out task with high priority,0,0,0,-1,0
+keep out high priority ticket,0,0,0,-1,0
+keep out ticket where priority is high,0,0,0,-1,0
+keep out ticket with high priority,0,0,0,-1,0
+keep out high priority item,0,0,0,-1,0
+keep out item where priority is high,0,0,0,-1,0
+keep out item with high priority,0,0,0,-1,0

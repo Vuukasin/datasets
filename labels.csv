@@ -1,0 +1,509 @@
+Sentence,Bug,Design,Feature,Improvement
+find bugs,1,0,0,0
+find bugs,1,0,0,0
+find bugs,1,0,0,0
+find bugs,1,0,0,0
+find issue with bug label,1,0,0,0
+find task with bug label,1,0,0,0
+find ticket with bug label,1,0,0,0
+find item with bug label,1,0,0,0
+find issue labeled with bugfind issue labeled as bug,1,0,0,0
+find task labeled with bugfind task labeled as bug,1,0,0,0
+find ticket labeled with bugfind ticket labeled as bug,1,0,0,0
+find item labeled with bugfind item labeled as bug,1,0,0,0
+display bugs,1,0,0,0
+display bugs,1,0,0,0
+display bugs,1,0,0,0
+display bugs,1,0,0,0
+display issue with bug label,1,0,0,0
+display task with bug label,1,0,0,0
+display ticket with bug label,1,0,0,0
+display item with bug label,1,0,0,0
+display issue labeled with bugdisplay issue labeled as bug,1,0,0,0
+display task labeled with bugdisplay task labeled as bug,1,0,0,0
+display ticket labeled with bugdisplay ticket labeled as bug,1,0,0,0
+display item labeled with bugdisplay item labeled as bug,1,0,0,0
+get bugs,1,0,0,0
+get bugs,1,0,0,0
+get bugs,1,0,0,0
+get bugs,1,0,0,0
+get issue with bug label,1,0,0,0
+get task with bug label,1,0,0,0
+get ticket with bug label,1,0,0,0
+get item with bug label,1,0,0,0
+get issue labeled with bugget issue labeled as bug,1,0,0,0
+get task labeled with bugget task labeled as bug,1,0,0,0
+get ticket labeled with bugget ticket labeled as bug,1,0,0,0
+get item labeled with bugget item labeled as bug,1,0,0,0
+fetch bugs,1,0,0,0
+fetch bugs,1,0,0,0
+fetch bugs,1,0,0,0
+fetch bugs,1,0,0,0
+fetch issue with bug label,1,0,0,0
+fetch task with bug label,1,0,0,0
+fetch ticket with bug label,1,0,0,0
+fetch item with bug label,1,0,0,0
+fetch issue labeled with bugfetch issue labeled as bug,1,0,0,0
+fetch task labeled with bugfetch task labeled as bug,1,0,0,0
+fetch ticket labeled with bugfetch ticket labeled as bug,1,0,0,0
+fetch item labeled with bugfetch item labeled as bug,1,0,0,0
+load bugs,1,0,0,0
+load bugs,1,0,0,0
+load bugs,1,0,0,0
+load bugs,1,0,0,0
+load issue with bug label,1,0,0,0
+load task with bug label,1,0,0,0
+load ticket with bug label,1,0,0,0
+load item with bug label,1,0,0,0
+load issue labeled with bugload issue labeled as bug,1,0,0,0
+load task labeled with bugload task labeled as bug,1,0,0,0
+load ticket labeled with bugload ticket labeled as bug,1,0,0,0
+load item labeled with bugload item labeled as bug,1,0,0,0
+exclude bugs,-1,0,0,0
+exclude bugs,-1,0,0,0
+exclude bugs,-1,0,0,0
+exclude bugs,-1,0,0,0
+filter out bugs,-1,0,0,0
+filter out bugs,-1,0,0,0
+filter out bugs,-1,0,0,0
+filter out bugs,-1,0,0,0
+cut out bugs,-1,0,0,0
+cut out bugs,-1,0,0,0
+cut out bugs,-1,0,0,0
+cut out bugs,-1,0,0,0
+keep out bugs,-1,0,0,0
+keep out bugs,-1,0,0,0
+keep out bugs,-1,0,0,0
+keep out bugs,-1,0,0,0
+exclude issue with bug label,-1,0,0,0
+exclude task with bug label,-1,0,0,0
+exclude ticket with bug label,-1,0,0,0
+exclude item with bug label,-1,0,0,0
+filter out issue with bug label,-1,0,0,0
+filter out task with bug label,-1,0,0,0
+filter out ticket with bug label,-1,0,0,0
+filter out item with bug label,-1,0,0,0
+cut out issue with bug label,-1,0,0,0
+cut out task with bug label,-1,0,0,0
+cut out ticket with bug label,-1,0,0,0
+cut out item with bug label,-1,0,0,0
+keep out issue with bug label,-1,0,0,0
+keep out task with bug label,-1,0,0,0
+keep out ticket with bug label,-1,0,0,0
+keep out item with bug label,-1,0,0,0
+exclude issue labeled with bug,-1,0,0,0
+exclude task labeled with bug,-1,0,0,0
+exclude ticket labeled with bug,-1,0,0,0
+exclude item labeled with bug,-1,0,0,0
+filter out issue labeled with bug,-1,0,0,0
+filter out task labeled with bug,-1,0,0,0
+filter out ticket labeled with bug,-1,0,0,0
+filter out item labeled with bug,-1,0,0,0
+cut out issue labeled with bug,-1,0,0,0
+cut out task labeled with bug,-1,0,0,0
+cut out ticket labeled with bug,-1,0,0,0
+cut out item labeled with bug,-1,0,0,0
+keep out issue labeled with bug,-1,0,0,0
+keep out task labeled with bug,-1,0,0,0
+keep out ticket labeled with bug,-1,0,0,0
+keep out item labeled with bug,-1,0,0,0
+find design related issue,0,1,0,0
+find design related task,0,1,0,0
+find design related ticket,0,1,0,0
+find design related item,0,1,0,0
+display design related issue,0,1,0,0
+display design related task,0,1,0,0
+display design related ticket,0,1,0,0
+display design related item,0,1,0,0
+get design related issue,0,1,0,0
+get design related task,0,1,0,0
+get design related ticket,0,1,0,0
+get design related item,0,1,0,0
+fetch design related issue,0,1,0,0
+fetch design related task,0,1,0,0
+fetch design related ticket,0,1,0,0
+fetch design related item,0,1,0,0
+load design related issue,0,1,0,0
+load design related task,0,1,0,0
+load design related ticket,0,1,0,0
+load design related item,0,1,0,0
+find issue with design label,0,1,0,0
+find task with design label,0,1,0,0
+find ticket with design label,0,1,0,0
+find item with design label,0,1,0,0
+display issue with design label,0,1,0,0
+display task with design label,0,1,0,0
+display ticket with design label,0,1,0,0
+display item with design label,0,1,0,0
+get issue with design label,0,1,0,0
+get task with design label,0,1,0,0
+get ticket with design label,0,1,0,0
+get item with design label,0,1,0,0
+fetch issue with design label,0,1,0,0
+fetch task with design label,0,1,0,0
+fetch ticket with design label,0,1,0,0
+fetch item with design label,0,1,0,0
+load issue with design label,0,1,0,0
+load task with design label,0,1,0,0
+load ticket with design label,0,1,0,0
+load item with design label,0,1,0,0
+find issue labeled as design,0,1,0,0
+find task labeled as design,0,1,0,0
+find ticket labeled as design,0,1,0,0
+find item labeled as design,0,1,0,0
+display issue labeled as design,0,1,0,0
+display task labeled as design,0,1,0,0
+display ticket labeled as design,0,1,0,0
+display item labeled as design,0,1,0,0
+get issue labeled as design,0,1,0,0
+get task labeled as design,0,1,0,0
+get ticket labeled as design,0,1,0,0
+get item labeled as design,0,1,0,0
+fetch issue labeled as design,0,1,0,0
+fetch task labeled as design,0,1,0,0
+fetch ticket labeled as design,0,1,0,0
+fetch item labeled as design,0,1,0,0
+load issue labeled as design,0,1,0,0
+load task labeled as design,0,1,0,0
+load ticket labeled as design,0,1,0,0
+load item labeled as design,0,1,0,0
+find issue labeled with design,0,1,0,0
+find task labeled with design,0,1,0,0
+find ticket labeled with design,0,1,0,0
+find item labeled with design,0,1,0,0
+display issue labeled with design,0,1,0,0
+display task labeled with design,0,1,0,0
+display ticket labeled with design,0,1,0,0
+display item labeled with design,0,1,0,0
+get issue labeled with design,0,1,0,0
+get task labeled with design,0,1,0,0
+get ticket labeled with design,0,1,0,0
+get item labeled with design,0,1,0,0
+fetch issue labeled with design,0,1,0,0
+fetch task labeled with design,0,1,0,0
+fetch ticket labeled with design,0,1,0,0
+fetch item labeled with design,0,1,0,0
+load issue labeled with design,0,1,0,0
+load task labeled with design,0,1,0,0
+load ticket labeled with design,0,1,0,0
+load item labeled with design,0,1,0,0
+exclude design related issue,0,-1,0,0
+exclude design related task,0,-1,0,0
+exclude design related ticket,0,-1,0,0
+exclude design related item,0,-1,0,0
+filter out design related issue,0,-1,0,0
+filter out design related task,0,-1,0,0
+filter out design related ticket,0,-1,0,0
+filter out design related item,0,-1,0,0
+cut out design related issue,0,-1,0,0
+cut out design related task,0,-1,0,0
+cut out design related ticket,0,-1,0,0
+cut out design related item,0,-1,0,0
+keep out design related issue,0,-1,0,0
+keep out design related task,0,-1,0,0
+keep out design related ticket,0,-1,0,0
+keep out design related item,0,-1,0,0
+exclude issue with design label,0,-1,0,0
+exclude task with design label,0,-1,0,0
+exclude ticket with design label,0,-1,0,0
+exclude item with design label,0,-1,0,0
+filter out issue with design label,0,-1,0,0
+filter out task with design label,0,-1,0,0
+filter out ticket with design label,0,-1,0,0
+filter out item with design label,0,-1,0,0
+cut out issue with design label,0,-1,0,0
+cut out task with design label,0,-1,0,0
+cut out ticket with design label,0,-1,0,0
+cut out item with design label,0,-1,0,0
+keep out issue with design label,0,-1,0,0
+keep out task with design label,0,-1,0,0
+keep out ticket with design label,0,-1,0,0
+keep out item with design label,0,-1,0,0
+exclude issue labeled with desing,0,-1,0,0
+exclude task labeled with desing,0,-1,0,0
+exclude ticket labeled with desing,0,-1,0,0
+exclude item labeled with desing,0,-1,0,0
+filter out issue labeled with desing,0,-1,0,0
+filter out task labeled with desing,0,-1,0,0
+filter out ticket labeled with desing,0,-1,0,0
+filter out item labeled with desing,0,-1,0,0
+cut out issue labeled with desing,0,-1,0,0
+cut out task labeled with desing,0,-1,0,0
+cut out ticket labeled with desing,0,-1,0,0
+cut out item labeled with desing,0,-1,0,0
+keep out issue labeled with desing,0,-1,0,0
+keep out task labeled with desing,0,-1,0,0
+keep out ticket labeled with desing,0,-1,0,0
+keep out item labeled with desing,0,-1,0,0
+find new features,0,0,1,0
+find new features,0,0,1,0
+find new features,0,0,1,0
+find new features,0,0,1,0
+display new features,0,0,1,0
+display new features,0,0,1,0
+display new features,0,0,1,0
+display new features,0,0,1,0
+get new features,0,0,1,0
+get new features,0,0,1,0
+get new features,0,0,1,0
+get new features,0,0,1,0
+fetch new features,0,0,1,0
+fetch new features,0,0,1,0
+fetch new features,0,0,1,0
+fetch new features,0,0,1,0
+load new features,0,0,1,0
+load new features,0,0,1,0
+load new features,0,0,1,0
+load new features,0,0,1,0
+find features,0,0,1,0
+find features,0,0,1,0
+find features,0,0,1,0
+find features,0,0,1,0
+display features,0,0,1,0
+display features,0,0,1,0
+display features,0,0,1,0
+display features,0,0,1,0
+get features,0,0,1,0
+get features,0,0,1,0
+get features,0,0,1,0
+get features,0,0,1,0
+fetch features,0,0,1,0
+fetch features,0,0,1,0
+fetch features,0,0,1,0
+fetch features,0,0,1,0
+load features,0,0,1,0
+load features,0,0,1,0
+load features,0,0,1,0
+load features,0,0,1,0
+find issue labeled with feature,0,0,1,0
+find task labeled with feature,0,0,1,0
+find ticket labeled with feature,0,0,1,0
+find item labeled with feature,0,0,1,0
+display issue labeled with feature,0,0,1,0
+display task labeled with feature,0,0,1,0
+display ticket labeled with feature,0,0,1,0
+display item labeled with feature,0,0,1,0
+get issue labeled with feature,0,0,1,0
+get task labeled with feature,0,0,1,0
+get ticket labeled with feature,0,0,1,0
+get item labeled with feature,0,0,1,0
+fetch issue labeled with feature,0,0,1,0
+fetch task labeled with feature,0,0,1,0
+fetch ticket labeled with feature,0,0,1,0
+fetch item labeled with feature,0,0,1,0
+load issue labeled with feature,0,0,1,0
+load task labeled with feature,0,0,1,0
+load ticket labeled with feature,0,0,1,0
+load item labeled with feature,0,0,1,0
+find issue labeled as feature,0,0,1,0
+find task labeled as feature,0,0,1,0
+find ticket labeled as feature,0,0,1,0
+find item labeled as feature,0,0,1,0
+display issue labeled as feature,0,0,1,0
+display task labeled as feature,0,0,1,0
+display ticket labeled as feature,0,0,1,0
+display item labeled as feature,0,0,1,0
+get issue labeled as feature,0,0,1,0
+get task labeled as feature,0,0,1,0
+get ticket labeled as feature,0,0,1,0
+get item labeled as feature,0,0,1,0
+fetch issue labeled as feature,0,0,1,0
+fetch task labeled as feature,0,0,1,0
+fetch ticket labeled as feature,0,0,1,0
+fetch item labeled as feature,0,0,1,0
+load issue labeled as feature,0,0,1,0
+load task labeled as feature,0,0,1,0
+load ticket labeled as feature,0,0,1,0
+load item labeled as feature,0,0,1,0
+find issue with label feature,0,0,1,0
+find task with label feature,0,0,1,0
+find ticket with label feature,0,0,1,0
+find item with label feature,0,0,1,0
+display issue with label feature,0,0,1,0
+display task with label feature,0,0,1,0
+display ticket with label feature,0,0,1,0
+display item with label feature,0,0,1,0
+get issue with label feature,0,0,1,0
+get task with label feature,0,0,1,0
+get ticket with label feature,0,0,1,0
+get item with label feature,0,0,1,0
+fetch issue with label feature,0,0,1,0
+fetch task with label feature,0,0,1,0
+fetch ticket with label feature,0,0,1,0
+fetch item with label feature,0,0,1,0
+load issue with label feature,0,0,1,0
+load task with label feature,0,0,1,0
+load ticket with label feature,0,0,1,0
+load item with label feature,0,0,1,0
+exclude new features,0,0,-1,0
+exclude new features,0,0,-1,0
+exclude new features,0,0,-1,0
+exclude new features,0,0,-1,0
+filter out new features,0,0,-1,0
+filter out new features,0,0,-1,0
+filter out new features,0,0,-1,0
+filter out new features,0,0,-1,0
+cut out new features,0,0,-1,0
+cut out new features,0,0,-1,0
+cut out new features,0,0,-1,0
+cut out new features,0,0,-1,0
+keep out new features,0,0,-1,0
+keep out new features,0,0,-1,0
+keep out new features,0,0,-1,0
+keep out new features,0,0,-1,0
+exclude features,0,0,-1,0
+exclude features,0,0,-1,0
+exclude features,0,0,-1,0
+exclude features,0,0,-1,0
+filter out features,0,0,-1,0
+filter out features,0,0,-1,0
+filter out features,0,0,-1,0
+filter out features,0,0,-1,0
+cut out features,0,0,-1,0
+cut out features,0,0,-1,0
+cut out features,0,0,-1,0
+cut out features,0,0,-1,0
+keep out features,0,0,-1,0
+keep out features,0,0,-1,0
+keep out features,0,0,-1,0
+keep out features,0,0,-1,0
+exclude issue labled with feature,0,0,-1,0
+exclude task labled with feature,0,0,-1,0
+exclude ticket labled with feature,0,0,-1,0
+exclude item labled with feature,0,0,-1,0
+filter out issue labled with feature,0,0,-1,0
+filter out task labled with feature,0,0,-1,0
+filter out ticket labled with feature,0,0,-1,0
+filter out item labled with feature,0,0,-1,0
+cut out issue labled with feature,0,0,-1,0
+cut out task labled with feature,0,0,-1,0
+cut out ticket labled with feature,0,0,-1,0
+cut out item labled with feature,0,0,-1,0
+keep out issue labled with feature,0,0,-1,0
+keep out task labled with feature,0,0,-1,0
+keep out ticket labled with feature,0,0,-1,0
+keep out item labled with feature,0,0,-1,0
+exclude issue with label feature,0,0,-1,0
+exclude task with label feature,0,0,-1,0
+exclude ticket with label feature,0,0,-1,0
+exclude item with label feature,0,0,-1,0
+filter out issue with label feature,0,0,-1,0
+filter out task with label feature,0,0,-1,0
+filter out ticket with label feature,0,0,-1,0
+filter out item with label feature,0,0,-1,0
+cut out issue with label feature,0,0,-1,0
+cut out task with label feature,0,0,-1,0
+cut out ticket with label feature,0,0,-1,0
+cut out item with label feature,0,0,-1,0
+keep out issue with label feature,0,0,-1,0
+keep out task with label feature,0,0,-1,0
+keep out ticket with label feature,0,0,-1,0
+keep out item with label feature,0,0,-1,0
+find issue with improvement label,0,0,0,1
+find task with improvement label,0,0,0,1
+find ticket with improvement label,0,0,0,1
+find item with improvement label,0,0,0,1
+display issue with improvement label,0,0,0,1
+display task with improvement label,0,0,0,1
+display ticket with improvement label,0,0,0,1
+display item with improvement label,0,0,0,1
+get issue with improvement label,0,0,0,1
+get task with improvement label,0,0,0,1
+get ticket with improvement label,0,0,0,1
+get item with improvement label,0,0,0,1
+fetch issue with improvement label,0,0,0,1
+fetch task with improvement label,0,0,0,1
+fetch ticket with improvement label,0,0,0,1
+fetch item with improvement label,0,0,0,1
+load issue with improvement label,0,0,0,1
+load task with improvement label,0,0,0,1
+load ticket with improvement label,0,0,0,1
+load item with improvement label,0,0,0,1
+find issue labeled as improvement,0,0,0,1
+find task labeled as improvement,0,0,0,1
+find ticket labeled as improvement,0,0,0,1
+find item labeled as improvement,0,0,0,1
+display issue labeled as improvement,0,0,0,1
+display task labeled as improvement,0,0,0,1
+display ticket labeled as improvement,0,0,0,1
+display item labeled as improvement,0,0,0,1
+get issue labeled as improvement,0,0,0,1
+get task labeled as improvement,0,0,0,1
+get ticket labeled as improvement,0,0,0,1
+get item labeled as improvement,0,0,0,1
+fetch issue labeled as improvement,0,0,0,1
+fetch task labeled as improvement,0,0,0,1
+fetch ticket labeled as improvement,0,0,0,1
+fetch item labeled as improvement,0,0,0,1
+load issue labeled as improvement,0,0,0,1
+load task labeled as improvement,0,0,0,1
+load ticket labeled as improvement,0,0,0,1
+load item labeled as improvement,0,0,0,1
+find issue where label is improvement,0,0,0,1
+find task where label is improvement,0,0,0,1
+find ticket where label is improvement,0,0,0,1
+find item where label is improvement,0,0,0,1
+display issue where label is improvement,0,0,0,1
+display task where label is improvement,0,0,0,1
+display ticket where label is improvement,0,0,0,1
+display item where label is improvement,0,0,0,1
+get issue where label is improvement,0,0,0,1
+get task where label is improvement,0,0,0,1
+get ticket where label is improvement,0,0,0,1
+get item where label is improvement,0,0,0,1
+fetch issue where label is improvement,0,0,0,1
+fetch task where label is improvement,0,0,0,1
+fetch ticket where label is improvement,0,0,0,1
+fetch item where label is improvement,0,0,0,1
+load issue where label is improvement,0,0,0,1
+load task where label is improvement,0,0,0,1
+load ticket where label is improvement,0,0,0,1
+load item where label is improvement,0,0,0,1
+exclude issue where label is improvement,0,0,0,-1
+exclude task where label is improvement,0,0,0,-1
+exclude ticket where label is improvement,0,0,0,-1
+exclude item where label is improvement,0,0,0,-1
+filter out issue where label is improvement,0,0,0,-1
+filter out task where label is improvement,0,0,0,-1
+filter out ticket where label is improvement,0,0,0,-1
+filter out item where label is improvement,0,0,0,-1
+cut out issue where label is improvement,0,0,0,-1
+cut out task where label is improvement,0,0,0,-1
+cut out ticket where label is improvement,0,0,0,-1
+cut out item where label is improvement,0,0,0,-1
+keep out issue where label is improvement,0,0,0,-1
+keep out task where label is improvement,0,0,0,-1
+keep out ticket where label is improvement,0,0,0,-1
+keep out item where label is improvement,0,0,0,-1
+exclude issue labled with improvement,0,0,0,-1
+exclude task labled with improvement,0,0,0,-1
+exclude ticket labled with improvement,0,0,0,-1
+exclude item labled with improvement,0,0,0,-1
+filter out issue labled with improvement,0,0,0,-1
+filter out task labled with improvement,0,0,0,-1
+filter out ticket labled with improvement,0,0,0,-1
+filter out item labled with improvement,0,0,0,-1
+cut out issue labled with improvement,0,0,0,-1
+cut out task labled with improvement,0,0,0,-1
+cut out ticket labled with improvement,0,0,0,-1
+cut out item labled with improvement,0,0,0,-1
+keep out issue labled with improvement,0,0,0,-1
+keep out task labled with improvement,0,0,0,-1
+keep out ticket labled with improvement,0,0,0,-1
+keep out item labled with improvement,0,0,0,-1
+exclude issue labeled as improvement,0,0,0,-1
+exclude task labeled as improvement,0,0,0,-1
+exclude ticket labeled as improvement,0,0,0,-1
+exclude item labeled as improvement,0,0,0,-1
+filter out issue labeled as improvement,0,0,0,-1
+filter out task labeled as improvement,0,0,0,-1
+filter out ticket labeled as improvement,0,0,0,-1
+filter out item labeled as improvement,0,0,0,-1
+cut out issue labeled as improvement,0,0,0,-1
+cut out task labeled as improvement,0,0,0,-1
+cut out ticket labeled as improvement,0,0,0,-1
+cut out item labeled as improvement,0,0,0,-1
+keep out issue labeled as improvement,0,0,0,-1
+keep out task labeled as improvement,0,0,0,-1
+keep out ticket labeled as improvement,0,0,0,-1
+keep out item labeled as improvement,0,0,0,-1
